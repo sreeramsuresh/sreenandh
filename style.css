@@ -1,0 +1,37 @@
+body {
+  background: url(/Images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.no-2 {
+  font-size: 5rem;
+}
+
+button {
+  width: 20px;
+  background: none;
+  border: none;
+}
+button:hover {
+  color: red;
+}
+.no-1 p {
+  font-size: 50px;
+}
+.no-1 b {
+  font-size: 60px;
+  letter-spacing: 10px;
+}
+
+.img-1 img {
+  width: 20rem;
+}
+.row-1 td {
+  margin-right: 10rem;
+}
+table,
+th,
+td {
+  border: 20px solid grey;
+}
