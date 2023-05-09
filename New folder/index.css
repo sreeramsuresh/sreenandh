@@ -5,21 +5,23 @@
 }
 
 .parent_container_2 {
-  background-color: #fff;
-}
-
-.child_container_1 {
-  background-color: aqua;
+  background-color: #ce1b1b;
   width: 100px;
   height: 100px;
 }
-.child_container_2 {
+
+.parent_container_child_1 {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+}
+.parent_container_child_2 {
   background-color: blue;
   width: 100px;
   height: 100px;
 }
-.child_container_3 {
-  background-color: rgb(90, 128, 128);
+.parent_container_child_3 {
+  background-color: orange;
   width: 100px;
   height: 100px;
 }
