@@ -1,0 +1,25 @@
+.parent_container {
+  width: 600px;
+  height: 600px;
+  background-color: green;
+}
+
+.parent_container_2 {
+  background-color: #fff;
+}
+
+.child_container_1 {
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+}
+.child_container_2 {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+.child_container_3 {
+  background-color: rgb(90, 128, 128);
+  width: 100px;
+  height: 100px;
+}
